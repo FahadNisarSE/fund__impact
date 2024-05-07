@@ -12,7 +12,7 @@ import {
 
 export default function PostCard() {
   return (
-    <Card className="w-full max-w-[350px]">
+    <Card className="w-full max-w-[350px~]">
       <CardHeader>
         <CardTitle>Personal Assistant</CardTitle>
         <CardDescription>Just one click away from you.</CardDescription>
