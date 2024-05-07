@@ -1,0 +1,55 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1714203649951,
+      "tag": "0000_sparkling_ricochet",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1714277871476,
+      "tag": "0001_optimal_stranger",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1714306394305,
+      "tag": "0002_spotty_hitman",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1714307394461,
+      "tag": "0003_superb_zzzax",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1714307475799,
+      "tag": "0004_eager_shocker",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1714886220567,
+      "tag": "0005_aberrant_ares",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1714915489906,
+      "tag": "0006_thick_thunderbird",
+      "breakpoints": true
+    }
+  ]
+}
