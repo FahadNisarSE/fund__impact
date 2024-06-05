@@ -14,6 +14,7 @@ export default async function MainNav() {
     if (session?.user.role === "Creator") {
       items.push({ title: "Home", href: "/", disabled: false });
       items.push({ title: "Dashboard", href: "/dashboard", disabled: false });
+      items.push({ title: "Settings", href: "/settings", disabled: false });
     } else {
       items.push({ title: "Home", href: "/", disabled: false });
       items.push({ title: "Settings", href: "/settings", disabled: false });
