@@ -4,11 +4,8 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.remote_video_care",
-      "sha256_cert_fingerprints": [
-        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
-        "7B:D6:0E:B7:FF:96:15:02:2B:A7:22:C4:95:76:82:1F:07:97:07:DE:35:F2:E4:BD:9B:25:0E:19:DF:CA:E4:1F",
-        "7D:18:6A:F1:E4:11:19:C2:20:46:50:26:B6:8C:8F:2C:97:B2:9A:E1:43:B6:72:12:06:DF:7A:18:89:4A:1E:8D"
-      ]
+      "sha256_cert_fingerprints":
+        ["A2:D7:DB:70:CE:39:AF:D4:F0:AE:70:EB:F0:16:B4:29:0D:FF:B9:02:B2:42:B7:6B:6A:AF:BC:C8:DE:36:7D:91"]
     }
   }
 ]
