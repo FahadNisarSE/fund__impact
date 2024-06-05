@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["7269J8ZDB9.com.remotemedtech.rvc"],
+        "components": [
+          {
+            "#": "*",
+            "exclude": true,
+            "comment": "Matches any url and open the apps."
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["7269J8ZDB9.com.remotemedtech.rvc"]
+  }
+}
